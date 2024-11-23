@@ -18,7 +18,7 @@ body {
 
   /*estilo de la imagen de fondo*/
 
-  background-image: url('/01.png'); 
+  background-image: url('01.png'); 
   background-size: cover; 
   background-position: center; 
   background-repeat: no-repeat; 
